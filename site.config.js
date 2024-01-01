@@ -15,11 +15,8 @@ const CONFIG = {
       name: `📃 Portfolio`,
       href: "https://naveen-aifanatic.vercel.app/",
     },
-    {
-      name: `📹 YouTube`,
-      href: "https://www.youtube.com/@aifanatic",
-    },
   ],
+
   // blog setting (required)
   blog: {
     title: "AI Fanatic Blog",

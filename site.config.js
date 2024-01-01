@@ -9,12 +9,15 @@ const CONFIG = {
     linkedin: "nchatlapalli",
     github: "ai-fanatic",
     instagram: "navaifanatic",
-    youtube: "@aifanatic",
   },
   projects: [
     {
-      name: `Naveen Portfolio`,
+      name: `📃 Portfolio`,
       href: "https://naveen-aifanatic.vercel.app/",
+    },
+    {
+      name: `📹 YouTube`,
+      href: "https://www.youtube.com/@aifanatic",
     },
   ],
   // blog setting (required)
@@ -36,13 +39,13 @@ const CONFIG = {
 
   // plugin configuration (optional)
   googleAnalytics: {
-    enable: false,
+    enable: true,
     config: {
       measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "",
     },
   },
   googleSearchConsole: {
-    enable: false,
+    enable: true,
     config: {
       siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
     },
@@ -54,7 +57,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
       repo: "ai-fanatic/morethan-log",
       "issue-term": "og:title",

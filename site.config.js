@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Naveen Chatlapalli",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Solution Architect / Solopreneur",
-    bio: "I design and build user-centric apps 🌏 Solve real-world problems ⏲️ Enhance productivity and 🤖 Innovative AI",
+    bio: "I design and build user-centric apps to - 🌏 Solve real-world problems ⏲️ Enhance productivity and 🤖 Innovative AI",
     email: "naveen.aifanatic@gmail.com",
     linkedin: "nchatlapalli",
     github: "ai-fanatic",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "AIFanatic Blog",
-    description: "welcome to AIFanatic Blog!",
+    title: "AI Fanatic Blog",
+    description: "Welcome to AI Fanatic Blog!",
   },
 
   // CONFIG configration (required)

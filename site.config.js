@@ -9,6 +9,7 @@ const CONFIG = {
     linkedin: "nchatlapalli",
     github: "ai-fanatic",
     instagram: "navaifanatic",
+    youtube: "@aifanatic",
   },
   projects: [
     {

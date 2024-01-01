@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "Naveen Chatlapalli",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Solution Architect",
-    bio: "I develop everything using AI.",
+    role: "Solution Architect / Solopreneur",
+    bio: "I design and build user-centric apps 🌏 Solve real-world problems ⏲️ Enhance productivity and 🤖 Innovative AI",
     email: "naveen.aifanatic@gmail.com",
     linkedin: "nchatlapalli",
     github: "ai-fanatic",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `AIFanatic Blog`,
-      href: "https://github.com/ai-fanatic/morethan-log",
+      name: `Naveen Portfolio`,
+      href: "https://naveen-aifanatic.vercel.app/",
     },
   ],
   // blog setting (required)
@@ -71,6 +71,5 @@ const CONFIG = {
   //revalidateTime: 21600 * 7, // revalidate time for [slug], index
   revalidateTime: 1,
 }
-
 
 module.exports = { CONFIG }

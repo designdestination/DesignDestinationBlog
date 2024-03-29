@@ -1,30 +1,30 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Naveen Chatlapalli",
+    name: "Akilesh Varma",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Solution Architect / Solopreneur",
-    bio: "I design and build user-centric apps to - 🌏 Solve real-world problems ⏲️ Enhance productivity and 🤖 Innovative AI",
-    email: "naveen.aifanatic@gmail.com",
-    linkedin: "nchatlapalli",
-    github: "ai-fanatic",
-    instagram: "navaifanatic",
+    role: "Principal Architect / Entrepreneur",
+    bio: "🏛️ Principal Architect specializing in innovative design solutions and sustainable architecture, dedicated to shaping environments that inspire and endure. Passionate about merging creativity with functionality to create spaces that enrich lives. 🌱",
+    email: "mail.designdestination@gmail.com",
+    linkedin: "akilesh-varma/",
+    github: "designdestination",
+    instagram: "designdestinationfirm",
   },
   projects: [
     {
       name: `📃 Portfolio`,
-      href: "https://naveen-aifanatic.vercel.app/",
+      href: "https://design-destination-blog.vercel.app/",
     },
   ],
 
   // blog setting (required)
   blog: {
-    title: "AI Fanatic Blog",
-    description: "Welcome to AI Fanatic Blog!",
+    title: "Design Destination Blog",
+    description: "Welcome to Design Destination Blog!",
   },
 
   // CONFIG configration (required)
-  link: "https://blog-aifanatic.vercel.app/",
+  link: "https://design-destination-blog.vercel.app/",
   since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
@@ -56,7 +56,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "ai-fanatic/morethan-log",
+      repo: "designdestination/DesignDestinationBlog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
